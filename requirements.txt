@@ -1,0 +1,7 @@
+streamlit
+pandas
+plotly
+python-pptx
+reportlab
+pillow
+kaleido==0.2.1
